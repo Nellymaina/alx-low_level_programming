@@ -1,7 +1,10 @@
-#!/bin/bash
 #include <stdio.h>
+
+
 /**
- * Description: main -prints out a string to stdout.
+ * main -prints text to the console
+ * Description -prints " Programming is like building a multilingual puzzle
+ *
  * Return: 0 if success
  */
 int main(void)
