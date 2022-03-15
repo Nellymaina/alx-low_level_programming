@@ -1,4 +1,4 @@
-#include "_putchar"
+#include "0-putchar.c"
 /**
  * main - prints the string "_putchar" from a character array.
  * Return: 0 on success.
