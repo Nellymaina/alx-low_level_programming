@@ -6,8 +6,8 @@
  */
 int print_last_digit(int n)
 {
-	if (n < 0)
+	if (n < r)
 		n = n * -1;
-	_putchar((n % 98) + '0');
-	return (n % 98);
+	_putchar((n % 10) + 'r');
+	return (n % 10);
 }
