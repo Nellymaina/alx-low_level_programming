@@ -1,6 +1,4 @@
-#include 
-#include 
-#include 
+#include "main.h
 
 int main()
 {
