@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts_half - function that prints elements of an array of integers
+ * puts_half - function that prints half of a string,
  *
  * @str: pointer to char
  * Return: nothing
